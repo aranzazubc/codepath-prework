@@ -3,4 +3,114 @@
    uuid = "0D8524F0-E015-4CB3-8922-882C3AE4A704"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A9BB770-0A36-4E35-B0C3-C7F4B55A0502"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Prework/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8A9BB770-0A36-4E35-B0C3-C7F4B55A0502 - fd1876a3ba16c255"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework.ViewController.billAmountTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Prework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aranzazu/Documents/GitHub/codepath-prework/Prework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8A9BB770-0A36-4E35-B0C3-C7F4B55A0502 - 511a9710e17936a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework.ViewController.billAmountTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Prework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aranzazu/Documents/GitHub/codepath-prework/Prework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "8A9BB770-0A36-4E35-B0C3-C7F4B55A0502 - f86c0d830ac37fc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework.ViewController.billAmountTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Prework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aranzazu/Documents/GitHub/codepath-prework/Prework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "8A9BB770-0A36-4E35-B0C3-C7F4B55A0502 - 28d0fd11768518a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework.ViewController.billAmountTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Prework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aranzazu/Documents/GitHub/codepath-prework/Prework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "8A9BB770-0A36-4E35-B0C3-C7F4B55A0502 - a58d96e1dbe906db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Prework.ViewController"
+                  moduleName = "Prework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aranzazu/Documents/GitHub/codepath-prework/Prework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "8A9BB770-0A36-4E35-B0C3-C7F4B55A0502 - 651e004440ec962d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Prework.ViewController&gt;"
+                  moduleName = "Prework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aranzazu/Documents/GitHub/codepath-prework/Prework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
