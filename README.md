@@ -7,7 +7,7 @@ Codepath rework project: tip calculator app.
 
 Submitted by: **Aranzazu Bravo Cerpa**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
